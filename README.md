@@ -1,24 +1,6 @@
-## Hi there 👋
-
 ###
 
 <h2 align="left">Hi 👋! My name is Abdulrahman Radan and I'm a Full-Stack Developer, from Palestine.</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulrahmanRadan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrahmanRadan&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-  <img src="https://img.shields.io/badge/Facebook-0866ff?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook logo" />
-  <img src="https://img.shields.io/badge/CodePen-black?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen logo" />
-</div>
 
 ###
 
@@ -30,6 +12,56 @@
 
 <h3 align="left">👩‍💻 About Me</h3>
 <p align="left">I'm Abdulrahman Radan<br><br>- 🔭 I’m working as a Full-Stack Developer.<br>- 📚 I'm currently learning AI and Flutter.<br>- ⚡ In my free time, I enjoy solving coding challenges and exploring new technologies.</p>
+
+###
+
+###
+
+<h3 align="left">🔥 My Stats</h3>
+
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulrahmanRadan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrahmanRadan&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+  <img src="https://img.shields.io/badge/Facebook-0866ff?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook logo" />
+  <img src="https://img.shields.io/badge/CodePen-black?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen logo" />
+</div>
+
+
+###
+
+
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=abdulrahmanRadan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/abdulrahmanRadan/abdulrahmanRadan/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=abdulrahmanRadan&theme=default" alt="Layout with last medium posts" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/abdulrahmanRadan/count.svg?" />
+</div>
+
 
 ###
 
@@ -54,22 +86,13 @@
   <a target="_blank" href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" /></a>
 </div>
 
-###
 
-<h3 align="left">🔥 My Stats</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=abdulrahmanRadan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
-
-###
 
 <h2>⚡️ Where to find me</h2>
 <p>
   <a target="_blank" href="https://www.facebook.com/abdalrhman.radan/"><img src="https://img.shields.io/badge/Facebook-0866ff?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a target="_blank" href="https://codepen.io/abody-ali"><img src="https://img.shields.io/badge/CodePen-black?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>
 </p>
-
 
 
 
