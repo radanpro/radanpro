@@ -1,0 +1,146 @@
+/* تنسيق الصفحة */
+body {
+  background-color: #427394ff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  font-family: "Fira Code", monospace;
+}
+
+/* تصميم نافذة التيرمينال */
+.terminal {
+  width: 80%;
+  max-width: 600px;
+  background-color: #2e2e2e;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+}
+
+.terminal-header {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  background-color: #333;
+  border-radius: 10px 10px 0 0;
+}
+
+.buttons span {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+}
+
+.red {
+  background-color: #ff5f56;
+}
+.yellow {
+  background-color: #ffbd2e;
+}
+.green {
+  background-color: #27c93f;
+}
+
+.terminal-title {
+  flex: 1;
+  text-align: center;
+  color: #fff;
+  font-weight: bold;
+}
+
+/* تنسيق محتوى التيرمينال */
+.terminal-body {
+  padding: 20px;
+  color: #fff;
+  font-size: 1.2em;
+}
+
+/* ألوان النص في التيرمينال */
+#sudo-text {
+  color: #1e2aabff; /* لون sudo في التيرمينال */
+  animation: blinkText 0.8s infinite alternate;
+}
+
+#name-text {
+  color: #8be9fd; /* لون AbdulrahmanRadan في التيرمينال */
+}
+
+.cursor {
+  animation: blink 0.8s infinite;
+}
+
+@keyframes blink {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+}
+
+@keyframes blinkText {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+}
+
+/* تنسيق الصفحة المنبثقة */
+.popup {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 90%;
+  max-width: 600px;
+  background: linear-gradient(135deg, #1e1e1e, #333);
+  color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+  display: none;
+  padding: 40px;
+}
+
+.popup-content {
+  text-align: center;
+  font-family: "Fira Code", monospace;
+}
+
+.popup-content h2 {
+  font-size: 2.5em;
+  color: #ff79c6; /* لون العنوان في الصفحة المنبثقة */
+  margin-bottom: 20px;
+}
+
+#typed-text {
+  font-size: 2.2em;
+  color: #ff79c6;
+  font-weight: bold;
+  background: linear-gradient(to right, #ff79c6, #bd93f9);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #6272a4;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+  margin-top: 20px;
+  font-size: 1em;
+}
+
+button:hover {
+  background-color: #50fa7b;
+}
+
+.close-btn {
+  display: none;
+}

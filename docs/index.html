@@ -4,28 +4,41 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Terminal Animation</title>
-    <style>
-      #name-animation {
-        font-size: 2em;
-        color: #4e5bff;
-        animation: colorChange 2s infinite alternate;
-      }
-      @keyframes colorChange {
-        0% {
-          color: #4e5bff;
-        }
-        50% {
-          color: #ff5733;
-        }
-        100% {
-          color: #ffc300;
-        }
-      }
-    </style>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
   </head>
   <body>
-    <h1 align="center">
-      <span id="name-animation">Abdulrahman Radan</span>
-    </h1>
+    <div class="terminal">
+      <div class="terminal-header">
+        <div class="buttons">
+          <span class="red"></span>
+          <span class="yellow"></span>
+          <span class="green"></span>
+        </div>
+        <div class="terminal-title">Terminal</div>
+      </div>
+      <div class="terminal-body">
+        <span class="terminal-command"
+          ><span id="sudo-text">sudo</span>
+          <span id="name-text">AbdulrahmanRadan</span
+          ><span class="cursor">|</span></span
+        >
+        <div id="loading-text"></div>
+      </div>
+    </div>
+
+    <div id="popup" class="popup">
+      <div class="popup-content">
+        <h2>Welcome to Abdulrahman Radan's Profile</h2>
+        <span id="typed-text"></span>
+        <button id="close-popup" class="close-btn">Close</button>
+      </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+    <script src="script.js"></script>
   </body>
 </html>
