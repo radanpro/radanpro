@@ -10,6 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
+      - name: Setup Node.js 20
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
       - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
@@ -22,4 +26,5 @@ jobs:
           git pull origin main
           git add -A .
           git commit -m "generated"
-          git push
+          git push origin main
+
