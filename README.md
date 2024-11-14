@@ -1,21 +1,3 @@
-<h1 align="center">
-  <span id="name-animation">Abdulrahman Radan</span>
-</h1>
-
-<style>
-  #name-animation {
-    font-size: 2em;
-    color: #4e5bff;
-    animation: colorChange 2s infinite alternate;
-  }
-
-  @keyframes colorChange {
-    0% { color: #4e5bff; }
-    50% { color: #ff5733; }
-    100% { color: #ffc300; }
-  }
-</style>
-
 <br/>
 <br/>
 
