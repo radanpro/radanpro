@@ -17,8 +17,8 @@
 ---
 
 <h3 align="left">🛠️ Skills</h3>
-<div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <table style="width: 45%; border-collapse: collapse; border-radius: 10px; overflow: hidden; background-color: #205E9DFF; box-shadow: 2 4px 18px rgba(0, 0, 0, 0.26);">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <table style="width: 400px; border-collapse: collapse; border-radius: 10px; overflow: hidden; background-color: #205E9DFF; box-shadow: 2 4px 18px rgba(0, 0, 0, 0.26);">
     <tr style="background-color: #314A4DFF; color: white; text-align: center;">
       <th style="padding: 15px; border-top-left-radius: 10px; border-right: 8px solid #123B4FFF">Frontend</th>
       <th style="padding: 15px; border-right: 8px solid #123B4FFF;">Backend</th>
@@ -58,7 +58,7 @@
     </tr>
   </table>
 
-  <img src="./GIF/logo1.gif" alt="Logo" style=" width: 45%; height: auto; border-radius: 20px; border: 2px solid #000; padding: 10px; object-fit: cover; box-shadow: 2 4px 18px rgba(0, 0, 0, 0.26);">
+  <img src="./GIF/logo1.gif" alt="Logo" style="width: 400px; height: auto; border-radius: 20px; border: 2px solid #000; padding: 10px; object-fit: cover; box-shadow: 2 4px 18px rgba(0, 0, 0, 0.26);">
 </div>
 
 <br>
