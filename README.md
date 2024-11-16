@@ -1,11 +1,3 @@
-<br/>
-<br/>
-
-<img src="./GIF/logo1.gif" alt="Logo" style="clip-path: inset(50px 100px); width: 100%; height: auto; border-radius: 20px; border: 2px solid #000; padding: 10px; object-fit: cover; box-shadow: 2 4px 18px rgba(0, 0, 0, 0.26);">
-
-<br/>
-<br/>
-
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px"/>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
@@ -67,6 +59,14 @@
 <br>
 <br>
 <hr />
+<br/>
+<br/>
+
+<img src="./GIF/logo1.gif" alt="Logo" style="clip-path: inset(50px 100px); width: 100%; height: auto; border-radius: 20px; border: 2px solid #000; padding: 10px; object-fit: cover; box-shadow: 2 4px 18px rgba(0, 0, 0, 0.26);">
+
+<br/>
+<br/>
+<hr/>
 <br>
 <div align="center">
   <img src="https://profile-counter.glitch.me/abdulrahmanRadan/count.svg?" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
