@@ -1,7 +1,7 @@
 <br/>
 <br/>
 
-###
+<img src="./GIF/logo1.gif" alt="Logo" style="clip-path: inset(50px 100px); width: 100%; height: auto; border-radius: 20px; border: 2px solid #000; padding: 10px; object-fit: cover; box-shadow: 2 4px 18px rgba(0, 0, 0, 0.26);">
 
 <br/>
 <br/>
@@ -14,14 +14,60 @@
 
 <h3 align="left">👨‍💻 About Me</h3>
 <p align="left">
-  I'm Abdulrahman Radan<br><br>
-  - 🔭 A passionate Full-Stack Developer with a focus on creating impactful tools and systems.<br>
-  - 📚 Currently diving deep into AI and building a proctoring system using advanced deep learning techniques.<br>
-  - 💡 Exploring innovative solutions in web development and integrating AI with practical applications.<br>
-  - ⚡ Enjoy solving complex coding challenges, enhancing my skills in various technologies, and sharing my knowledge through tutorials and projects.<br>
+  I'm Abdulrahman Ali Radan<br><br>
+  - 🔭 A dedicated Full-Stack Developer with a focus on creating scalable web solutions and impactful tools for developers.<br>
+  - 🎓 Computer Science student, graduating in 2025, with a strong passion for web development and AI integration.<br>
+  - 📚 Currently working on an AI-powered proctoring system for online exams, leveraging deep learning and computer vision techniques to detect cheating in real-time.<br>
+  - 💡 Passionate about exploring innovative web solutions and continuously enhancing my skills in modern technologies.<br>
+  - ⚡ Enjoy tackling complex coding challenges, sharing knowledge through tutorials, and collaborating on open-source projects.<br>
 </p>
 
+<h3 align="left">🛠️ Skills</h3>
+
+<table style="margin:4px; width: 100%; border-collapse: collapse; border-radius: 10px; overflow: hidden; background-color: #205E9DFF; box-shadow: 2 4px 18px rgba(0, 0, 0, 0.26);">
+  <tr style="background-color: #314A4DFF; color: white; text-align: center;">
+    <th style="padding: 15px; border-top-left-radius: 10px; border-right: 8px solid #123B4FFF">Frontend</th>
+    <th style="padding: 15px; border-right: 8px solid #123B4FFF;">Backend</th>
+    <th style="padding: 15px; border-right: 8px solid #123B4FFF;">Databases</th>
+    <th style="padding: 15px; border-top-right-radius: 10px;">Tools & Technologies</th>
+  </tr>
+  <tr style="background-color: #0A575AFF;">
+    <td style="padding: 15px; text-align: center; border-right: 8px solid #123B4FFF;">
+      - Vue.js<br>
+      - React<br>
+      - Tailwind CSS<br>
+      - JavaScript<br>
+      - blade<br>
+      - Flutter
+    </td>
+    <td style="padding: 15px; text-align: center; border-right: 8px solid #123B4FFF">
+      - Laravel<br>
+      - Node.js<br>
+      - Django<br>
+      - Flask<br>
+      - FastAPI<br>
+      - Ruby on Rails
+    </td>
+    <td style="padding: 15px; text-align: center; border-right: 8px solid #123B4FFF">
+      - MySQL<br>
+      - MongoDB<br>
+      - sqlite<br>
+      - Firebase 
+    </td>
+    <td style="padding: 15px; text-align: center;">
+      - Git<br>
+      - github<br>
+      - Docker<br>
+      - figma<br>
+      - CI/CD Pipelines
+    </td>
+  </tr>
+</table>
+<br>
+<br>
+<br>
 <hr />
+<br>
 <div align="center">
   <img src="https://profile-counter.glitch.me/abdulrahmanRadan/count.svg?" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
 </div>
@@ -38,8 +84,8 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img 
-      src="https://streak-stats.demolab.com?user=abdulrahmanRadan&theme=tokyonight_duo&hide_border=false" 
+    <img
+      src="https://streak-stats.demolab.com?user=abdulrahmanRadan&theme=tokyonight_duo&hide_border=false"
       alt="GitHub Streak"
       style="
         border-radius: 15px;
@@ -50,7 +96,7 @@
       "
     />
   </a>
-  
+
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrahmanRadan&show_icons=true&hide_border=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true"/>
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmanRadan&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
@@ -75,3 +121,7 @@
 </div>
 
 ![3D Profile](./profile-3d-contrib/profile-green-animate.svg)
+
+```
+
+```
