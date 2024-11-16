@@ -14,59 +14,58 @@
   - ⚡ Enjoy tackling complex coding challenges, sharing knowledge through tutorials, and collaborating on open-source projects.<br>
 </p>
 
-<h3 align="left">🛠️ Skills</h3>
+---
 
-<table style="margin:4px; width: 100%; border-collapse: collapse; border-radius: 10px; overflow: hidden; background-color: #205E9DFF; box-shadow: 2 4px 18px rgba(0, 0, 0, 0.26);">
-  <tr style="background-color: #314A4DFF; color: white; text-align: center;">
-    <th style="padding: 15px; border-top-left-radius: 10px; border-right: 8px solid #123B4FFF">Frontend</th>
-    <th style="padding: 15px; border-right: 8px solid #123B4FFF;">Backend</th>
-    <th style="padding: 15px; border-right: 8px solid #123B4FFF;">Databases</th>
-    <th style="padding: 15px; border-top-right-radius: 10px;">Tools & Technologies</th>
-  </tr>
-  <tr style="background-color: #0A575AFF;">
-    <td style="padding: 15px; text-align: center; border-right: 8px solid #123B4FFF;">
-      - Vue.js<br>
-      - React<br>
-      - Tailwind CSS<br>
-      - JavaScript<br>
-      - blade<br>
-      - Flutter
-    </td>
-    <td style="padding: 15px; text-align: center; border-right: 8px solid #123B4FFF">
-      - Laravel<br>
-      - Node.js<br>
-      - Django<br>
-      - Flask<br>
-      - FastAPI<br>
-      - Ruby on Rails
-    </td>
-    <td style="padding: 15px; text-align: center; border-right: 8px solid #123B4FFF">
-      - MySQL<br>
-      - MongoDB<br>
-      - sqlite<br>
-      - Firebase 
-    </td>
-    <td style="padding: 15px; text-align: center;">
-      - Git<br>
-      - github<br>
-      - Docker<br>
-      - figma<br>
-      - CI/CD Pipelines
-    </td>
-  </tr>
-</table>
-<br>
+<h3 align="left">🛠️ Skills</h3>
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <table style="width: 45%; border-collapse: collapse; border-radius: 10px; overflow: hidden; background-color: #205E9DFF; box-shadow: 2 4px 18px rgba(0, 0, 0, 0.26);">
+    <tr style="background-color: #314A4DFF; color: white; text-align: center;">
+      <th style="padding: 15px; border-top-left-radius: 10px; border-right: 8px solid #123B4FFF">Frontend</th>
+      <th style="padding: 15px; border-right: 8px solid #123B4FFF;">Backend</th>
+      <th style="padding: 15px; border-right: 8px solid #123B4FFF;">Databases</th>
+      <th style="padding: 15px; border-top-right-radius: 10px;">Tools & Technologies</th>
+    </tr>
+    <tr style="background-color: #0A575AFF;">
+      <td style="padding: 15px; text-align: center; border-right: 8px solid #123B4FFF;">
+        - Vue.js<br>
+        - React<br>
+        - Tailwind CSS<br>
+        - JavaScript<br>
+        - blade<br>
+        - Flutter
+      </td>
+      <td style="padding: 15px; text-align: center; border-right: 8px solid #123B4FFF">
+        - Laravel<br>
+        - Node.js<br>
+        - Django<br>
+        - Flask<br>
+        - FastAPI<br>
+        - Ruby on Rails
+      </td>
+      <td style="padding: 15px; text-align: center; border-right: 8px solid #123B4FFF">
+        - MySQL<br>
+        - MongoDB<br>
+        - sqlite<br>
+        - Firebase 
+      </td>
+      <td style="padding: 15px; text-align: center;">
+        - Git<br>
+        - github<br>
+        - Docker<br>
+        - figma<br>
+        - CI/CD Pipelines
+      </td>
+    </tr>
+  </table>
+
+  <img src="./GIF/logo1.gif" alt="Logo" style=" width: 45%; height: auto; border-radius: 20px; border: 2px solid #000; padding: 10px; object-fit: cover; box-shadow: 2 4px 18px rgba(0, 0, 0, 0.26);">
+</div>
+
 <br>
 <br>
 <hr />
-<br/>
-<br/>
+<br>
 
-<img src="./GIF/logo1.gif" alt="Logo" style="clip-path: inset(50px 100px); width: 100%; height: auto; border-radius: 20px; border: 2px solid #000; padding: 10px; object-fit: cover; box-shadow: 2 4px 18px rgba(0, 0, 0, 0.26);">
-
-<br/>
-<br/>
-<hr/>
 <br>
 <div align="center">
   <img src="https://profile-counter.glitch.me/abdulrahmanRadan/count.svg?" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
