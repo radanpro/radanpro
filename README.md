@@ -14,6 +14,36 @@
   - ⚡ Enjoy tackling complex coding challenges, sharing knowledge through tutorials, and collaborating on open-source projects.<br>
 </p>
 
+<h2 align="left">⚡️ Where to find me</h2>
+
+<div align="center">
+  <a href="https://linkedin.com/in/abdulrahmanRadan">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://youtube.com/@abdulrahmanRadan">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
+  </a>
+  <a href="https://twitter.com/abdulrahmanRadan">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+  </a>
+  <a href="https://codepen.io/abdulrahmanRadan">
+    <img src="https://img.shields.io/badge/CodePen-black?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen logo" />
+  </a>
+  <a href="mailto:aboda123li123@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
+  </a>
+  <a href="mailto:abdulrahmanraadan@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
+  </a>
+  <a href="https://wa.me/+967779934918">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
+  </a>
+  <a href="https://t.me/y@Radan_aa">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=0088cc&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
+  </a>
+</div>
+
+
 ---
 
 <h3 align="left">🛠️ Skills</h3>
@@ -102,22 +132,8 @@
   </p>
 </div>
 
-<h2 align="left">⚡️ Where to find me</h2>
 
-<div align="center">
-  <a href="https://linkedin.com/in/abdulrahmanRadan">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://youtube.com/@abdulrahmanRadan">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
-  </a>
-  <a href="https://twitter.com/abdulrahmanRadan">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-  </a>
-  <a href="https://codepen.io/abdulrahmanRadan">
-    <img src="https://img.shields.io/badge/CodePen-black?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen logo" />
-  </a>
-</div>
+
 
 ![3D Profile](./profile-3d-contrib/profile-green-animate.svg)
 
