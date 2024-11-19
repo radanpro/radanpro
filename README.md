@@ -58,7 +58,7 @@
     </tr>
   </table>
 
-  <img src="./GIF/logo1.gif" alt="Logo" style="width: 90%; height: auto; border-radius: 20px; border: 2px solid #000; padding: 10px; object-fit: cover; box-shadow: 2 4px 18px rgba(0, 0, 0, 0.26);">
+  <!-- <img src="./GIF/logo1.gif" alt="Logo" style="width: 90%; height: auto; border-radius: 20px; border: 2px solid #000; padding: 10px; object-fit: cover; box-shadow: 2 4px 18px rgba(0, 0, 0, 0.26);"> -->
 </div>
 
 <br>
