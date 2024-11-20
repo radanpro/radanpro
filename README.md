@@ -47,7 +47,7 @@
 
 <h3 align="left">🛠️ Skills</h3>
 <div align="center" style="display: flex-1; justify-content: center; gap: 20px;">
-  <img src="./images/Skills.png" alt="Skills" />
+  <img src="./images/Skills_img.png" alt="Skills" />
 
   <!-- <table style="width: 90%; border-collapse: collapse; border-radius: 10px; overflow: hidden; background-color: #205E9DFF; box-shadow: 2 4px 18px rgba(0, 0, 0, 0.26);">
     <tr style="background-color: #314A4DFF; color: white; text-align: center;">
