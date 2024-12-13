@@ -47,9 +47,9 @@
 
 <h3 align="left">🛠️ Skills</h3>
 <div align="center" >
-  <img src="./images/Skills.png" alt="Skills" />
+<!--   <img src="./images/Skills.png" alt="Skills" /> -->
 
-  <!-- <table style="width: 90%; border-collapse: collapse; border-radius: 10px; overflow: hidden; background-color: #205E9DFF; box-shadow: 2 4px 18px rgba(0, 0, 0, 0.26);">
+  <table style="width: 90%; border-collapse: collapse; border-radius: 10px; overflow: hidden; background-color: #205E9DFF; box-shadow: 2 4px 18px rgba(0, 0, 0, 0.26);">
     <tr style="background-color: #314A4DFF; color: white; text-align: center;">
       <th style="padding: 15px; border-top-left-radius: 10px; border-right: 8px solid #123B4FFF">Frontend</th>
       <th style="padding: 15px; border-right: 8px solid #123B4FFF;">Backend</th>
@@ -87,9 +87,9 @@
         - CI/CD Pipelines
       </td>
     </tr>
-  </table> -->
+  </table> 
 
-   <!-- <img src="./GIF/logo1.gif" alt="Logo" style="width: 90%; height: auto; border-radius: 20px; border: 2px solid #000; padding: 10px; object-fit: cover; box-shadow: 2 4px 18px rgba(0, 0, 0, 0.26);">  -->
+ <!-- <img src="./GIF/logo1.gif" alt="Logo" style="width: 90%; height: auto; border-radius: 20px; border: 2px solid #000; padding: 10px; object-fit: cover; box-shadow: 2 4px 18px rgba(0, 0, 0, 0.26);">  -->
 </div>
 
 <br>
