@@ -98,22 +98,19 @@
 <h2 align="center">🔥 My Stats</h2>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://streak-stats.demolab.com?user=abdulrahmanRadan&theme=tokyonight_duo&hide_border=false"
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abdulrahmanRadan&theme=jolly" alt="GitHub Streak" /></a>
+
+  <p align="center">
+    <img align="center"
+      src="https://github-readme-stats.vercel.app/api?username=abdulrahmanRadan&show_icons=true&theme=tokyonight"
       alt="GitHub Streak"
       style="
         border-radius: 15px;
         box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);
         border: 2px solid #4e5bff;
-        width: 90%;
         max-width: 600px;
       "
     />
-  </a>
-
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrahmanRadan&show_icons=true&hide_border=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true"/>
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmanRadan&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </p>
 </div>
