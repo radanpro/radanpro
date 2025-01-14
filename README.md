@@ -53,8 +53,6 @@
     <tr style="background-color: #314A4DFF; color: white; text-align: center;">
       <th style="padding: 15px; border-top-left-radius: 10px; border-right: 8px solid #123B4FFF">Frontend</th>
       <th style="padding: 15px; border-right: 8px solid #123B4FFF;">Backend</th>
-      <th style="padding: 15px; border-right: 8px solid #123B4FFF;">Databases</th>
-      <th style="padding: 15px; border-top-right-radius: 10px;">Tools & Technologies</th>
     </tr>
     <tr style="background-color: #0A575AFF;">
       <td style="padding: 15px; text-align: center; border-right: 8px solid #123B4FFF;">
@@ -72,19 +70,6 @@
         - Flask<br>
         - FastAPI<br>
         - Ruby on Rails
-      </td>
-      <td style="padding: 15px; text-align: center; border-right: 8px solid #123B4FFF">
-        - MySQL<br>
-        - MongoDB<br>
-        - sqlite<br>
-        - Firebase 
-      </td>
-      <td style="padding: 15px; text-align: center;">
-        - Git<br>
-        - github<br>
-        - Docker<br>
-        - figma<br>
-        - CI/CD Pipelines
       </td>
     </tr>
   </table> 
