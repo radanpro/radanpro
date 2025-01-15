@@ -56,11 +56,10 @@
     </tr>
     <tr style="background-color: #0A575AFF;">
       <td style="padding: 15px; text-align: center; border-right: 8px solid #123B4FFF;">
-        - Vue.js<br>
         - React<br>
+        - Vue.js<br>
         - Tailwind CSS<br>
         - JavaScript<br>
-        - blade<br>
         - Flutter
       </td>
       <td style="padding: 15px; text-align: center; border-right: 8px solid #123B4FFF">
