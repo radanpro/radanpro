@@ -20,16 +20,13 @@
   <a href="https://linkedin.com/in/radanpro">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://youtube.com/@radanpro">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
-  </a>
-  <a href="https://twitter.com/radanpro">
+  <a href="https://twitter.com/a1radan">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
   </a>
-  <a href="https://codepen.io/radanpro">
+<!--   <a href="https://codepen.io/radanpro">
     <img src="https://img.shields.io/badge/CodePen-black?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen logo" />
-  </a>
-  <a href="mailto:aboda123li123@gmail.com">
+  </a> -->
+  <a href="mailto:radan1pro@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
   </a>
   <a href="mailto:abdulrahmanraadan@gmail.com">
