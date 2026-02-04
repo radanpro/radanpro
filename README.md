@@ -89,12 +89,13 @@
   <a href="https://github.com/sponsors/radanpro"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
 </p>
 
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=radanpro&column=10&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+<!-- ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=radanpro&column=10&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh) -->
 
 <h2 align="center">🔥 My Stats</h2>
 
 <div align="center">
-   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=radanpro&theme=jolly" alt="GitHub Streak" /></a>
+   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-vijaypur.vercel.app/?user=radanpro&theme=jolly&border_radius=3.5" alt="GitHub Streak" /></a>
+   
 
   <p align="center">
     <img align="center"
