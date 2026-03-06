@@ -4,15 +4,16 @@
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
 
-<h3 align="left">👨‍💻 About Me</h3>
-<p align="left">
-  I'm Abdulrahman Ali Radan<br><br>
-  - 🔭 A dedicated Full-Stack Developer with a focus on creating scalable web solutions and impactful tools for developers.<br>
-  - 🎓 Computer Science student, graduating in 2025, with a strong passion for web development and AI integration.<br>
-  - 📚 Currently working on an AI-powered proctoring system for online exams, leveraging deep learning and computer vision techniques to detect cheating in real-time.<br>
-  - 💡 Passionate about exploring innovative web solutions and continuously enhancing my skills in modern technologies.<br>
-  - ⚡ Enjoy tackling complex coding challenges, sharing knowledge through tutorials, and collaborating on open-source projects.<br>
-</p>
+🚀 Abdulrahman Ali Radan
+Full-Stack Developer focused on building scalable web applications and developer tools.
+I enjoy solving complex engineering problems, working with modern frameworks, and integrating AI into real-world systems.
+👨‍💻 About Me
+💻 Full-Stack Developer experienced in modern web technologies and backend systems
+🎓 Computer Science Graduate (2025)
+🤖 Interested in AI integration, computer vision, and intelligent systems
+🧠 Enjoy building developer tools, automation systems, and scalable web apps
+🌍 Open to remote collaboration and open-source contributions
+
 
 <h2 align="left">⚡️ Where to find me</h2>
 
